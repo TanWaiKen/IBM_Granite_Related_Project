@@ -1,6 +1,7 @@
 # IBM_Granite_Related_Project
 
 Introduction
+
 Welcome to our workshop! In this workshop we'll be using the open-sourced IBM Granite AI foundation models for a number of use cases that demonstrates the value of generative AI.
 
 By the end of this workshop, you will be able to:
