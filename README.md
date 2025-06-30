@@ -13,9 +13,13 @@ By the end of this workshop, you will be able to:
 
 Agenda
 Lab 1: Document Summarization with Granite	Learn how to use an AI model to summarize a work of literature
+
 Lab 2: Retrieval Augmented Generation (RAG) with Langchain	Learn how to generate specific information from a large document
+
 Lab 3: Energy Demand Forecasting with Granite Timeseries (TTM)	Learn how to predict future trends using time series forecasting
+
 Lab 4: Entity Extraction from text using Granite	Learn how to use an AI model to extract entities from unstructured text.
+
 Lab 5: Multimodal RAG using Granite and Docling	Learn how to use AI models to generate specific information from unstructured PDFs with images.
 
 
